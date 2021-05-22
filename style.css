@@ -26,7 +26,7 @@ main > div > h1{
     font-size: 100px;
     margin-top: 0;
     margin-block-start: 0.67em;
-    margin-block-end: 15px;
+    margin-block-end: 15px; 
 }
 main > div > p{
     font-size: 20px;
